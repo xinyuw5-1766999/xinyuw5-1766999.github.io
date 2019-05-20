@@ -1,0 +1,65 @@
+.font1{
+	font-family:"Times New Roman";
+	size:6;
+
+}
+.font2{
+	font-family:"Serif";
+	size:8;
+	
+}
+.img1{
+	widht:40px;
+	height:40px;
+}
+#text1{
+	border:1px dotted blue;
+	weidth:50px;
+	height:20px;
+}
+#d1{
+	width:100px;
+	height:100px;
+	float:left;
+	background:blue;
+}
+#d2{
+	width:200px;
+	height:200px;
+	float:left;
+	background:red;
+}
+.div1{
+	text-align:center;
+	border:2px solid #a1a1a1;
+	padding:10px 40px; 
+	background:#dddddd;
+	width:350px;
+	height:200px;
+	border-radius:25px;
+	-moz-border-radius:25px;
+}
+.div2{
+	text-align:center;
+	border:2px solid #a1a1a1;
+	padding:10px 40px; 
+	background:#dddddd;
+	width:350px;
+	border-radius:25px;
+	-moz-border-radius:25px;
+}
+.div3{
+	text-align="center";
+	font-family="微软雅黑";
+	font-size:18px;
+	font-weight:normal;
+}
+.img2{
+	width:100px;
+	height:100px;
+    margin-left:20px;
+    margin-bottom:20px;
+    margin-right:20px;
+    margin-top:20px;	
+	
+}
